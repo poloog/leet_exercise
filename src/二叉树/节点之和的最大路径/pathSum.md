@@ -1,5 +1,5 @@
 # 节点之和的最大路径
-![maxPathSum](../../img/maxPathSum.jpg)
+![maxPathSum](../../img/maxPathSum.png)
 
 要计算最大路径和，必须遍历每个节点，才能得到结果。
 二叉树的遍历，递归、层序，这个题目显然没法使用层序遍历，因为需要利用树的结构（路径）。
