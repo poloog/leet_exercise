@@ -14,6 +14,6 @@ public class FindDuplicate {
             slow = nums[slow];
             fast = nums[fast];
         }
-        return nums[slow];
+        return slow;
     }
 }
