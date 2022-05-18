@@ -1,4 +1,4 @@
-package 数组.课程表;
+package 图.课程表;
 
 //public class CanFinish1 {
 //    public boolean canFinish(int numCourses, int[][] prerequisites) {
